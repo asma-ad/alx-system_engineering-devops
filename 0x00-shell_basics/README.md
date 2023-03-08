@@ -7,3 +7,6 @@
 4. The long format => Display current directory contents in a long format.
 
 5. Hidden files => Display current directory contents, including hidden files (starting with .). Use the long format.
+
+6. I love numbers => Display current directory contents.
+
