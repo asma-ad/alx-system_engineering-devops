@@ -10,3 +10,4 @@
 
 6. I love numbers => Display current directory contents.
 
+7. Welcome => a script that creates a directory named my_first_directory in the /tmp/ directory.
