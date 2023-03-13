@@ -13,3 +13,4 @@ I/O Redirections, and filter.
 10. No more javascript => a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. Don't just count your directories, make your directories count =>  a script that counts the number of directories and sub-directories in the current directory.
 12. What’s new => a script that displays the 10 newest files in the current directory.
+13. Being unique is better than being perfect => a script that takes a list of words as input and prints only words that appear exactly once(Words should be sorted).
