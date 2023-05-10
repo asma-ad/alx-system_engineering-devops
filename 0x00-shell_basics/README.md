@@ -40,4 +40,4 @@
 ==> file /tmp/iamafile
 
 13. We are symbols, and inhabit symbols => Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
-==> ln /bin/ls __ls__
+==> ln -s /bin/ls __ls__
