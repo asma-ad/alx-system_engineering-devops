@@ -26,4 +26,6 @@
 
 8. Bye bye Betty => Delete the file betty.The file betty is in /tmp/my_first_directory.
 ==> rm /tmp/my_first_directory/betty
- 
+
+9. Bye bye My first directory => Delete the directory my_first_directory that is in the /tmp directory.
+==> rmdir  /tmp/my_first_derictor 
