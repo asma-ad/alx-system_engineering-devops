@@ -50,3 +50,6 @@
 
 16. Clean Emacs => Create a script that deletes all files in the current working directory that end with the character ~.
 ==> rm *~
+
+17. Tree => Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces (and lines) in your script, not more.
+==> mkdir -p welcome/to/school
