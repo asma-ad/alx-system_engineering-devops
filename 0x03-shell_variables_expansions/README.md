@@ -9,7 +9,6 @@
 
 3. If the path be beautiful, let us not ask where it leads => Create a script that counts the number of directories in the PATH.
 ==> echo $PATH | tr ':' '\n' | wc -l
-
 4. Global variables => Create a script that lists environment variables.
 ==> printenv
 
@@ -17,4 +16,10 @@
 ==> set
 
 6. Local variable => Create a script that creates a new local variable. Name: BEST, Value: School
-==> BEST="School" 
+==> BEST="School"
+
+7. Global variable => Create a script that creates a new local variable. Name: BEST, Value: School
+=> export BEST="School"
+
+8. Every addition to true knowledge is an addition to human power => Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+==> echo $((128 + $TRUEKNOWLEDGE))
