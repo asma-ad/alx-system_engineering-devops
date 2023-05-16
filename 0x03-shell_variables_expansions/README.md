@@ -11,4 +11,7 @@
 ==> echo $PATH | tr ':' '\n' | wc -l
 
 4. Global variables => Create a script that lists environment variables.
-==> printenv 
+==> printenv
+
+5. Local variables => Create a script that lists all local variables and environment variables, and functions.
+==> set 
