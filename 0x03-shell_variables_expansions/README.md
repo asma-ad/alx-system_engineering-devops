@@ -14,4 +14,7 @@
 ==> printenv
 
 5. Local variables => Create a script that lists all local variables and environment variables, and functions.
-==> set 
+==> set
+
+6. Local variable => Create a script that creates a new local variable. Name: BEST, Value: School
+==> BEST="School" 
