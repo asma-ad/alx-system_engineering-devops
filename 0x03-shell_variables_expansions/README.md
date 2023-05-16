@@ -9,3 +9,6 @@
 
 3. If the path be beautiful, let us not ask where it leads => Create a script that counts the number of directories in the PATH.
 ==> echo $PATH | tr ':' '\n' | wc -l
+
+4. Global variables => Create a script that lists environment variables.
+==> printenv 
