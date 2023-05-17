@@ -18,4 +18,4 @@
 ==> head /etc/passwd
 
 6. Line #2 => Write a script that displays the third line of the file iacta. The file iacta will be in the working directory. You’re not allowed to use sed
-==> head -n 3 test | tail -n 1  
+==> head -n 3 iacta | tail -n 1  
