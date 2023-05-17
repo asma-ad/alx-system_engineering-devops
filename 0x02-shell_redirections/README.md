@@ -11,4 +11,8 @@
 ==> cat /etc/passwd /etc/hosts
 
 4. Last lines of a file => Display the last 10 lines of /etc/passwd
-==> cat | tail -n 10 /etc/passwd  
+==> cat | tail -n 10 /etc/passwd 
+==> tail /etc/passwd
+
+5. I'd prefer the first ones actually => Display the first 10 lines of /etc/passwd
+==> head /etc/passwd 
